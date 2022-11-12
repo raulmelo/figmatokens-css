@@ -1,0 +1,24 @@
+{
+  "name": "figmatokens-css",
+  "version": "1.0.0",
+  "description": "Build your token.json to scss variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "build",
+    "style": "style-dictionary index.js",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulmelo/figmatokens-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulmelo/figmatokens-css/issues"
+  },
+  "homepage": "https://github.com/raulmelo/figmatokens-css#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}

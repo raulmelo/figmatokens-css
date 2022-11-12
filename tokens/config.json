@@ -1,0 +1,211 @@
+{
+  "fenix-core": {
+    "color": {
+      "brand": {
+        "main01": {
+          "value": "#FF8200",
+          "type": "color",
+          "description": "Main 01"
+        },
+        "main02": {
+          "value": "#50555A",
+          "type": "color",
+          "description": "Main 02"
+        }
+      },
+      "digital": {
+        "primary": {
+          "extralight": {
+            "value": "#FFF0E4",
+            "type": "color",
+            "description": "Extra Light"
+          },
+          "lightest": {
+            "value": "#FFB578",
+            "type": "color",
+            "description": "Lightest"
+          },
+          "light": {
+            "value": "#FF8826",
+            "type": "color",
+            "description": "Light"
+          },
+          "medium": {
+            "value": "#EF6C00",
+            "type": "color",
+            "description": "Medium"
+          },
+          "dark": {
+            "value": "#BF5600",
+            "type": "color",
+            "description": "Dark"
+          },
+          "darkest": {
+            "value": "#8F4100",
+            "type": "color",
+            "description": "Darkest"
+          },
+          "extradark": {
+            "value": "#602B00",
+            "type": "color",
+            "description": "Extra Dark"
+          }
+        },
+        "secondary01": {
+          "extralight": {
+            "value": "#ECDFF0",
+            "type": "color",
+            "description": "Extra Light"
+          },
+          "lightest": {
+            "value": "#C69ED3",
+            "type": "color",
+            "description": "Lightest"
+          },
+          "light": {
+            "value": "#AA6EBC",
+            "type": "color",
+            "description": "Light"
+          },
+          "medium": {
+            "value": "#A05EB5",
+            "type": "color",
+            "description": "Medium"
+          },
+          "dark": {
+            "value": "#844597",
+            "type": "color",
+            "description": "Dark"
+          },
+          "darkest": {
+            "value": "#633471",
+            "type": "color",
+            "description": "Darkest"
+          },
+          "extradark": {
+            "value": "#42234B",
+            "type": "color",
+            "description": "Extra Dark"
+          }
+        },
+        "secondary02": {
+          "extralight": {
+            "value": "#DCFFFB",
+            "type": "color",
+            "description": "Extra Light"
+          },
+          "lightest": {
+            "value": "#00E7CD",
+            "type": "color",
+            "description": "Lightest"
+          },
+          "light": {
+            "value": "#00C4AE",
+            "type": "color",
+            "description": "Light"
+          },
+          "medium": {
+            "value": "#00A18F",
+            "type": "color",
+            "description": "Medium"
+          },
+          "dark": {
+            "value": "#008172",
+            "type": "color",
+            "description": "Dark"
+          },
+          "darkest": {
+            "value": "#006156",
+            "type": "color",
+            "description": "Darkest"
+          },
+          "extradark": {
+            "value": "#004039",
+            "type": "color",
+            "description": "Extra Dark"
+          }
+        },
+        "secondary03": {
+          "extralight": {
+            "value": "#E1E9F5",
+            "type": "color",
+            "description": "Extra Light"
+          },
+          "lightest": {
+            "value": "#A6BCE0",
+            "type": "color",
+            "description": "Lightest"
+          },
+          "light": {
+            "value": "#799BD1",
+            "type": "color",
+            "description": "Light"
+          },
+          "medium": {
+            "value": "#6A90CC",
+            "type": "color",
+            "description": "Medium"
+          },
+          "dark": {
+            "value": "#3F6EB9",
+            "type": "color",
+            "description": "Dark"
+          },
+          "darkest": {
+            "value": "#2F538B",
+            "type": "color",
+            "description": "Darkest"
+          },
+          "extradark": {
+            "value": "#20375C",
+            "type": "color",
+            "description": "Extra Dark"
+          }
+        },
+        "grayscale": {
+          "extralight": {
+            "value": "#FCFCFC",
+            "type": "color",
+            "description": "Extra Light"
+          },
+          "lightest": {
+            "value": "#DBDDDF",
+            "type": "color",
+            "description": "Lightest"
+          },
+          "light": {
+            "value": "#B7BBBF",
+            "type": "color",
+            "description": "Light"
+          },
+          "medium": {
+            "value": "#93999F",
+            "type": "color",
+            "description": "Medium"
+          },
+          "dark": {
+            "value": "#6D747A",
+            "type": "color",
+            "description": "Dark"
+          },
+          "darkest": {
+            "value": "#50555A",
+            "type": "color",
+            "description": "Darkest"
+          },
+          "extradark": {
+            "value": "#080809",
+            "type": "color",
+            "description": "Extra Dark"
+          }
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "fenix-core"
+    ]
+  }
+}
